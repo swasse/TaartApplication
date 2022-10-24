@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cake Application</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="str_btn_toast">Toast me</string>
+    <string name="str_btn_bass">choose your bass</string>
+    <string name="str_btn_cancel">Cancel</string>
+    <string name="str_title_dialog_bass">Choose bass</string>
+
+    <string-array name="cake_basses">
+        <item>Cup</item>
+        <item>Cheese</item>
+        <item>Lemon</item>
+        <item>Space</item>
+        <item>Beef</item>
+    </string-array>
+    <string name="str_snackbar_title">Waaarum?</string>
+    <string name="str_snackbar_action">Dürum!</string>
+    <string name="str_btn_ok">OK</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tarte Application</string>
+    <string name="action_settings">Parametres</string>
+    <string name="str_btn_toast">Toaste moi</string>
+    <string name="str_btn_bass">choisis ton bass</string>
+    <string name="str_btn_cancel">la cancel</string>
+    <string name="str_title_dialog_bass">choisisez bass</string>
+    <string name="str_snackbar_title">untranslatable</string>
+    <string name="str_snackbar_action">untranslatable</string>
+    <string name="str_btn_ok">C\'est bon</string>
+</resources>
